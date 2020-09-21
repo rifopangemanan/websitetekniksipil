@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #0AADFF;
+  color: #b91919;
 }
 
 a:hover {
-  color: #5CC9FF;
+  color: #b91919;
   text-decoration: none;
 }
 
@@ -45,13 +45,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #0AADFF;
+  background: #b91919;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #5CC9FF;
+  background: #b91919;
   color: #fff;
 }
 
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #0AADFF;
+  color: rgb(219, 34, 34);
 }
 
 #header .logo img {
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #0AADFF;
+  color: #b91919;
 }
 
 .nav-menu .drop-down ul {
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #0AADFF;
+  color: #b91919;
 }
 
 .nav-menu .drop-down > a:after {
@@ -262,8 +262,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Get Startet Button */
 .get-started-btn {
   margin-left: 22px;
-  background: #0AADFF;
-  color: #fff;
+  background: #b91919;
+  color: #f8f8f8;
   border-radius: 50px;
   padding: 8px 25px;
   white-space: nowrap;
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #5CC9FF;
+  background: #9e1313;
   color: #fff;
 }
 
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #0AADFF;
+  color: #b91919;
   text-decoration: none;
 }
 
@@ -452,8 +452,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #0AADFF;
-  border: 2px solid #0AADFF;
+  background: #b91919;
+  border: 2px solid #b91919;
 }
 
 @media (min-width: 1024px) {
@@ -485,7 +485,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f7f6;
+  background-color: #c41d1d;
 }
 
 .section-title {
@@ -500,7 +500,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: #c01b1b;
   font-family: "Poppins", sans-serif;
 }
 
@@ -567,11 +567,11 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #0AADFF;
+  color: rgb(196, 28, 28);
 }
 
 .about .content .learn-more-btn {
-  background: #0AADFF;
+  background: rgb(196, 20, 20);
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -582,7 +582,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #5CC9FF;
+  background: rgb(168, 19, 19);
   color: #fff;
 }
 
@@ -603,7 +603,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #0AADFF;
+  color: rgb(236, 236, 236);
   font-weight: 700;
 }
 
@@ -613,7 +613,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #37423b;
+  color: #f3f3f3;
 }
 
 /*--------------------------------------------------------------
@@ -621,7 +621,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #0AADFF;
+  background: rgb(63, 63, 63);
   border-radius: 4px;
   color: #fff;
 }
@@ -638,7 +638,7 @@ section {
 
 .why-us .content .more-btn {
   display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(190, 19, 19);
   padding: 6px 30px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -650,8 +650,8 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #0AADFF;
-  background: #fff;
+  color: rgb(245, 245, 245);
+  background: rgb(156, 14, 14);
 }
 
 .why-us .icon-boxes .icon-box {
